@@ -1,8 +1,14 @@
-# UnrealEngine_MaterialBasedLighting
-Using Unreal Engine Materials to create a custom lighting for low end platforms, like mobile or VR. 
-Works well for Oculus Quest.
+# UnrealEngine_MaterialsTech
+This repo comes along with my materials tutorials:
 
-Comes with video explaining how it works:
+https://youtu.be/Er0zZXxG8QM
+
 https://youtu.be/KZSJbwC9cbw
 
-I will keep updating it as I discover new tricks for lighting but feel free to suggest or add your own code.
+I will keep updating it and treat it as public library for anything materials releated, feel free to suggest or add your own code. I would love this to become a collaborative process. 
+
+My discord:
+Fansi#9256
+
+Email:
+fansi@kampairaptor.com
